@@ -5,9 +5,11 @@ border: 1px solid black;
 #vrimage {
   max-width: 100%;
   max-height: 100%;
+  height: auto;
+  width: auto;
 }
 
 #herodiv {
   height: 850px;
-  
+
 }
