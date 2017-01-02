@@ -3,13 +3,27 @@ border: 1px solid black;
 }*/
 
 #vrimage {
-  max-width: 100%;
+  max-width: 110%;
   max-height: 100%;
-  height: auto;
-  width: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin-left: 200px;
 }
 
 #herodiv {
-  height: 850px;
+  /*height: 100%;*/
 
 }
+
+
+/*#bg {
+  position: fixed;
+  top: 0;
+  left: 0; */
+
+  /* Preserve aspet ratio */
+  /*min-width: 100%;
+  min-height: 100%;
+}*/
