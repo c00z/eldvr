@@ -9,20 +9,28 @@ h1 {
 }
 
 #vrimage {
-  max-width: 110%;
-  max-height: 100%;
-  top: 0;
+  width: 90%;
+  height: 750px;
+  /*top: 0;
   right: 0;
   left: 0;
   bottom: 0;
-  margin-left: 200px;
+  margin-left: 200px;*/
 }
 
+#pagebrk {
+  border: 0;
+  border-bottom: 1px dashed #ccc;
+  background: #999;
+}
+
+/*#herodiv {
+  display: inline-block;;
+}*/
+/*
 #topinfo {
   height: 700px;
-
-
-}
+}*/
 
 
 
